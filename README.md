@@ -1,4 +1,4 @@
-# Learning to map surrounding vehicles into bird's eye view using synthetic data
+# Learning to Map Vehicles into Bird's Eye View
 
 <p align="center">
   <img src="img/task_overview.png" height="180">

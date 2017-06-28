@@ -4,7 +4,7 @@
   <img src="img/task_overview.png" height="180">
 </p>
 
-This code accompanies the paper *"Learning to map surrounding vehicles into bird's eye view using synthetic data"*.
+This code accompanies the paper *["Learning to map surrounding vehicles into bird's eye view using synthetic data"](https://arxiv.org/pdf/1706.08442.pdf)*.
 
 It contains the code for loading data and pre-trained SDPN model proposed in the paper.
 

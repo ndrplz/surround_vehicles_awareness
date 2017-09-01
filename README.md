@@ -35,6 +35,4 @@ In this repository only one example is provided, to the end of verifying that th
 
 The **whole dataset**, which comprises more than **1M** couples of bounding boxes, can be found <a href="http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=19" target="_blank"><b>here</b></a>.
 
-
-
-
+To get an idea of how the data look like you can check [this video](https://www.youtube.com/watch?v=t2mXv9j6LNw).

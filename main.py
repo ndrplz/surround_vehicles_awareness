@@ -29,9 +29,3 @@ if __name__ == '__main__':
     # Display sample prediction
     for b in range(len(X_coords)):
         show_prediction(X_images_original[b], Y_images[b], X_coords[b], Y_coords[b], Y_pred[b])
-
-
-
-
-
-
